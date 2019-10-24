@@ -1,0 +1,12 @@
+.Post {
+    text-align: left;
+    border: 1px solid #333;
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px;
+    margin: 0.5rem 0;
+    padding: 0 1rem 1rem 1rem;
+}
+
+.Post .container {
+    text-align: right;
+}

@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 import ReduxDemo from './components/ReduxDemo';
+import Home from './components/Home';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <h2>Welcome to React</h2>     
       </header>
       <ReduxDemo />
+      {/* <Home /> */}
     </div>
   );
 }
